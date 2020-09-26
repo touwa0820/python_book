@@ -1,0 +1,2 @@
+import cheer
+cheer.cheer()
